@@ -1,5 +1,8 @@
 # GNius
 
+> :warning: **THIS PROJECT IS NO LONGER MAINTAINED**: It is here just for Archival Purposes!
+
+
 GNius was created exclusively for IIT-GN students, which also participated in Inter IIT Tech Meet 2017 in the event "Dashboard".
 The portal was made to accumulate every feature that the institute student needs, all in one place. 
 The problems that a hostel student frequently encountered was brought together.
